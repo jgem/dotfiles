@@ -1,5 +1,5 @@
 [user]
-	name = Sebastian Skopp
+	name = skopu
 	email = sebastian.skopp@gmail.com
 
 [alias]
@@ -70,14 +70,14 @@
 [core]
 	autocrlf = input
 	whitespace = trailing-space,cr-at-eol
-	excludesfile = /home/jumski/.gitignore_global
+	excludesfile = /home/ss/.gitignore_global
 [github]
-	user = jumski
+	user = skopu
 [dude]
 	interval = 30
-	icon = /home/jumski/dotfiles/vendor/icons/github-icon.png
+	icon = /home/ss/dotfiles/vendor/icons/github-icon.png
 [init]
-	templatedir = /home/jumski/dotfiles/git_template
+	templatedir = /home/ss/dotfiles/git_template
 
 # url shortcuts
 [url "git@heroku.com:"]
