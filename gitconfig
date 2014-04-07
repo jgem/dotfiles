@@ -1,6 +1,6 @@
 [user]
-	name = skopu
-	email = sebastian.skopp@gmail.com
+	name = jgem
+	email = jacek.gemzik@akra.net
 
 [alias]
   ci = commit
@@ -70,14 +70,14 @@
 [core]
 	autocrlf = input
 	whitespace = trailing-space,cr-at-eol
-	excludesfile = /home/ss/.gitignore_global
+	excludesfile = /home/jacek/.gitignore_global
 [github]
-	user = skopu
+	user = jgem
 [dude]
 	interval = 30
-	icon = /home/ss/dotfiles/vendor/icons/github-icon.png
+	icon = /home/jacek/dotfiles/vendor/icons/github-icon.png
 [init]
-	templatedir = /home/ss/dotfiles/git_template
+	templatedir = /home/jacek/dotfiles/git_template
 
 # url shortcuts
 [url "git@heroku.com:"]
